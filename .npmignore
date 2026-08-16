@@ -1,0 +1,7 @@
+node_modules/
+lib/
+native/macos/dsh-voice-macos
+native/macos/dsh-voice-macos.app/
+native/windows/bin/
+native/windows/obj/
+native/windows/dsh-voice-windows.exe
